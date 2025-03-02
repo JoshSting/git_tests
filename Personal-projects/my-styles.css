@@ -1,0 +1,87 @@
+.container0{
+background-color: #1f2937;
+font-family: 'roboto'sans-serif;
+}
+
+.container0 h2{
+    color: white;
+}
+
+.container0 h3{
+    color: white;
+}
+
+.container0 .subtext{
+font-size: 48px;
+color: #f9faf8;
+font-weight: 900;
+
+}
+
+.container0 div{
+    
+    font-size: 18px;
+    color: #f9faf8;
+}
+
+.container0 .button {
+    background-color: blue;
+    color: #e5e7eb;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.container0 .button:hover {
+    background-color: darkblue; /* Hover effect */
+}
+
+    
+.container1 {
+background-color: white;
+font-family: 'roboto san-serif';
+display: flex;
+justify-content: center;
+gap: 20px;
+padding: 20px;
+flex-wrap: wrap;
+}
+
+.box1, .box2, .box3, .box4{
+width: 150px;
+height: 100px;
+border: 2px solid blue;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 8px;
+background-color: white;
+}
+
+
+    .container2{
+     text-align: center;
+     background-color: #e5e7eb;
+     font: italic;
+     font-size: 36px;
+    }
+
+.mybox{
+    width: 1000px;
+height: 180px;
+border: 50px solid white;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: blue;
+color: white;
+ }
+
+ .container3{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+ }
