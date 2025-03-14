@@ -50,7 +50,7 @@ flex-wrap: wrap;
 
 .box1, .box2, .box3, .box4{
 width: 150px;
-height: 100px;
+height: 150px;
 border: 2px solid blue;
 display: flex;
 justify-content: center;
